@@ -12,7 +12,6 @@ const server = app.listen(3001, () => {
    console.log("The server is listening... 🐒") 
 });
 
-module.exports = server;
 ```
 
 ##### GET request
