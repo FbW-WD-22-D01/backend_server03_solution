@@ -1,4 +1,4 @@
-# An almost simple server in Express.js
+# An almost simple server in Express.js - SOLUTION
 
 This project will allow you to practise setting up a server that will handle simple requests in Express.js
 
